@@ -1,0 +1,1 @@
+kind load docker-image hello-api --name demo-cluster-3
